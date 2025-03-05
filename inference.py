@@ -1,0 +1,1 @@
+print("this file will help in getting the inference from model.")
